@@ -14,3 +14,9 @@ ul {
     padding: 8px;
     background-color: #dddddd;
   }
+
+  Header.top-centre {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+  }
